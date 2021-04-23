@@ -4,7 +4,7 @@ Bitcoin ticker is a cli tool that shows current bitcoin prizes in EUR. It is wri
 
 ## Installation
 
-Use git to install urllib.
+Clone project with git.
 ```bash
 git clone https://github.com/lennikorhonen/btc_ticker.git
 ```
@@ -16,7 +16,7 @@ pip install urllib
 ## Usage
 
 ```bash
-~/installed_location/run.sh
+~/installed/location/run.sh
 ```
 for eg. `~/btc_ticker/run.sh`
 
