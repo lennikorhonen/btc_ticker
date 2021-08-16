@@ -1,6 +1,7 @@
 # Bitcoin ticker cli tool
 
 Bitcoin ticker is a cli tool that shows current bitcoin prizes in EUR. It is written in python and shell script.
+I have coded this project just for fun
 
 ## Installation
 

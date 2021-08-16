@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-echo -en "Press q to exit \n"
+echo -en "Press Ctrl+C or q to exit \n"
 while true; do
         python3 python/main.py
 
@@ -7,5 +7,5 @@ while true; do
         if [[ $input = "q" ]] || [[ $input = "Q" ]]; then
                 break
         fi
-        #sleep 10
+        sleep 10
 done
